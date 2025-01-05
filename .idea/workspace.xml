@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18f2a082-62b4-4aec-a645-d15ab40567fa" name="Changes" comment="master 添加项目文件">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/output/双击打开或将fallout4.exe拖入.exe" beforeDir="false" afterPath="$PROJECT_DIR$/output/Fallout4DownTool.exe" afterDir="false" />
-    </list>
+    <list default="true" id="18f2a082-62b4-4aec-a645-d15ab40567fa" name="Changes" comment="master 添加项目文件" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
